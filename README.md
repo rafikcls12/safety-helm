@@ -1,4 +1,4 @@
-![image](https://github.com/rafikcls12/safety-helm/assets/106144467/38fcb3e0-1d46-438f-96e0-1807ba24cf93)
+![Screenshot 20246](https://github.com/user-attachments/assets/13c8c1b6-2ee9-49d2-957c-8e214e694cb6)
 
 1. Download code ZIP
 2. Buka folder di Visual Studio Code
